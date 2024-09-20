@@ -4,5 +4,6 @@ streamlit
 python-dotenv
 PyPDF2
 langchain_community
+langchain_huggingface 
 
 -e .
